@@ -1,0 +1,8 @@
+h3 { font-family:Verdana, Geneva, Tahoma, sans-serif }
+table { width: 100%; border-collapse: collapse; }
+table, td { border: 1px solid silver; }
+.personal { font-style: italic; }
+.company { font-size: 1.2em; font-weight: bold; font-style: italic; }
+.role { font-weight: bold; }
+.location { font-weight: normal; }
+.duration { font-style: italic; }
